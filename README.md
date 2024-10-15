@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Repazor</h1>
-<h3 align="center">A Beginner Developer | Learning Python, HTML, C, C++, C+,  and Java</h3>
+<h3 align="center">A Beginner Developer | Learning Python, HTML, C, C++, C#,  and Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=repaz0r&label=Profile%20views&color=0e75b6&style=flat" alt="repaz0r" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Via rep4z0r@gmail.com or discord.gg/xT54uTxAvk**
 
-- 📄 Know about my experiences: **I am actively learning Python, HTML, CSS, and Java. I have worked on several projects that showcase my growing skills in web development and programming.**
+- 📄 Know about my experiences: **I am actively learning Python, HTML, C, C++, C#, and Java. I have worked on several projects that showcase my growing skills in web development and programming.**
 
 - ⚡ Fun fact **I'm Straight 🕶**
 
