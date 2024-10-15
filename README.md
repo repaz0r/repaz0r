@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/repazor" target="blank"><img src="https://img.shields.io/twitter/follow/repazor?logo=twitter&style=for-the-badge" alt="repazor" /></a> </p>
 
-- 🌱 I’m currently learning **Python, HTML, C, C++, C+, Java**
+- 🌱 I’m currently learning **Python, HTML, C, C++, C# , Java**
 
 - 💬 Ask me about **Programming, my projects, or any tech-related topics. Let's connect and share knowledge!**
 
